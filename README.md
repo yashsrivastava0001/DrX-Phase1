@@ -1,6 +1,7 @@
-Sample of .env file- 
+# Required
+OPENAI_API_KEY=your_openai_api_key
 
-OPENAI_API_KEY = #Your OpenAI API key (Only required) /n
-CLAUDE_API_KEY = #Your Claude API key /n
-SERPER_API_KEY = #Your Serper API key /n
-GROQ_API_KEY = #Your Groq API key
+# Optional
+CLAUDE_API_KEY=your_claude_api_key
+SERPER_API_KEY=your_serper_api_key
+GROQ_API_KEY=your_groq_api_key
