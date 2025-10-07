@@ -4,3 +4,4 @@ autogen-ext
 streamlit>=1.32
 python-dotenv>=1.0.1
 openai
+tiktoken>=0.12.0
