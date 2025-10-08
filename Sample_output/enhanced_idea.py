@@ -29,7 +29,7 @@ Provide 1–2 engaging paragraphs describing the product, its purpose, why it ma
 3. ……
 
 **AI Assist (Optional)**  
-If relevant, describe any AI-powered functionalities, such as matchmaking, content personalization, safety monitoring, or engagement optimization.
+If relevant, describe any AI-powered functionalities, such as matchmaking, content personalization, safety monitoring or engagement optimization.
 
 **Monetization & Growth Hooks**  
 Outline potential revenue streams, premium features, and organic/viral growth strategies.
