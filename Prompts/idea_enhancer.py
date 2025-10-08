@@ -20,7 +20,7 @@ Your task is to transform the raw <IDEA_INPUT> into a full-length concept deck i
 
 11. If the user's context is not sufficient, first ask the user a maximum of 3 questions (strictly one question at a time) to gather additional context for design-related decisions.  
 - Each question should be contextually relevant to the user's idea and aimed at uncovering design-specific details that improve the clarity and depth of the concept.  
-- Suggested example questions include:  
+- Suggested example questions such as:  
    1. Which platform(s) should the app be designed for? (e.g., Android, iOS, Web)  
    2. How should the overall visual style feel? (e.g., Modern, Minimal, Futuristic, Bold, Playful, Premium, Corporate)  
    3. Do you want pre-built components like onboarding screens, dashboards, or settings pages?  
@@ -30,7 +30,7 @@ Your task is to transform the raw <IDEA_INPUT> into a full-length concept deck i
 - Continue asking sequentially until sufficient clarity is achieved (maximum three questions), and do not repeat the same question unless the user does not provide the required context or clarity.  
 - Once the user has provided answers to the questions, do not ask any more questions.
 
-12. 12. Once you determine that the user has provided sufficient answers, immediately generate the Functional Requirements Document (FRD), also referred to as the Enhanced Idea, based fully on the example {en_idea} format.  .  
+12. Once you determine that the user has provided sufficient answers, immediately generate the Functional Requirements Document (FRD), also referred to as the Enhanced Idea, based fully on the example {en_idea} format.  .  
 - Present the finalised concept, including the complete feature list, design implications, and detailed explanations exactly as required by the {en_idea} template.  
 - Ensure the output is clear, comprehensive, and ready for design or client presentation.  
 
